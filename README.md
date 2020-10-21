@@ -7,6 +7,7 @@ Hier findest du meine Lösungen für Karel.
   - [1.1.2 (defuseOneBomb)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/1.1.2%20defuseOneBomb/solution.karel)
   - [1.1.3 (defuseTwoBombs)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/1.1.3%20defuseTwoBombs/solution.karel)
   - [1.1.4 (praticeHomeRun)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/1.1.4%20praticeHomeRun/solution.karel)
+  - [1.2.1 (climbTheStairs)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/1.2.1%20climbTheStairs/solution.karel)
 
 ## Lizenz
 
