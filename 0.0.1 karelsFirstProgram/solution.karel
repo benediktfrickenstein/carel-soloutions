@@ -8,5 +8,4 @@ void karelsFirstProgram() {
     moveForward();
     dropBeeper();
     moveForward();
-   
 }
