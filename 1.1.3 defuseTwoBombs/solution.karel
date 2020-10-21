@@ -1,0 +1,17 @@
+void defuseTwoBombs() {
+    goToBombandTurnAround();
+    turnRight();
+    goToBombandTurnAround();
+    turnLeft();
+}
+
+void goToBombandTurnAround () {
+    repeat (9) {
+        moveForward();
+    }
+    pickBeeper();
+    turnAround();
+    repeat (9) {
+        moveForward();
+    }
+}
