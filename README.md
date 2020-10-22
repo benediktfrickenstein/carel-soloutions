@@ -17,6 +17,7 @@ Hier findest du meine Lösungen für Karel.
   - [1.3.4 (tileTheFloor)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/1.3.4%20tileTheFloor/solution.karel)
   - [1.4.1 (stealOlympicFire)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/1.4.1%20stealOlympicFire/solution.karel)
   - [1.4.2 (removeTheTiles)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/1.4.2%20removeTheTiles/solution.karel)
+  - [1.4.3 (walkTheLabyrinth)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/1.4.3%20walkTheLabyrinth/solution.karel)
   
 ## Erklärung
   
