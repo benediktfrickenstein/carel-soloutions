@@ -15,6 +15,7 @@ Hier findest du meine Lösungen für Karel.
   - [1.3.2 (repairTheStreet)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/1.3.2%20repairTheStreet/solution.karel)
   - [1.3.3 (cleanTheRoom)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/1.3.3%20cleanTheRoom/solution.karel)
   - [1.3.4 (tileTheFloor)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/1.3.4%20tileTheFloor/solution.karel)
+  - [1.4.1 (stealOlympicFire)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/1.4.1%20stealOlympicFire/solution.karel)
   
 ## Erklärung
   
