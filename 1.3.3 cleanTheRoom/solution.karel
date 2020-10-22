@@ -1,0 +1,31 @@
+void moveAndPick () {
+    repeat (9) {
+        if (onBeeper()) {
+            pickBeeper();
+        }
+        moveForward();
+        if (onBeeper()) {
+            pickBeeper();
+        }
+    }
+}
+
+void goLeft () {
+    turnLeft();
+    moveForward();
+    turnLeft();
+    if (onBeeper()) {
+        pickBeeper();
+    }
+}
+
+void goRight () {
+    turnRight();
+    if (frontIsClear()) {
+           moveForward(); 
+    }
+    turnRight();
+    if (onBeeper()) {
+        pickBeeper();
+    }
+}
