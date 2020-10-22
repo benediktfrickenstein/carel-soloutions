@@ -10,8 +10,7 @@ void repairTheStreet () {
             if (frontIsClear()) {
                 moveForward();   
             }
-        } else {
-            moveForward();
         }
+            moveForward();
     }   
 }
