@@ -14,6 +14,11 @@ Hier findest du meine Lösungen für Karel.
   - [1.3.1 (harvestTheField)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/1.3.1%20harvestTheField/solution.karel)
   - [1.3.2 (repairTheStreet)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/1.3.2%20repairTheStreet/solution.karel)
   - [1.3.3 (cleanTheRoom)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/1.3.3%20cleanTheRoom/solution.karel)
+  - [1.3.4 (tileTheFloor)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/1.3.4%20tileTheFloor/solution.karel)
+  
+## Erklärung
+  
+  Karel ist ein Roboter den man mithilfe einer vereinfachten Programmiersprache Aufgaben erfüllen lassen kann.
 
 ## Lizenz
 
