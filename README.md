@@ -19,6 +19,7 @@ Hier findest du meine Lösungen für Karel.
   - [1.4.2 (removeTheTiles)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/1.4.2%20removeTheTiles/solution.karel)
   - [1.4.3 (walkTheLabyrinth)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/1.4.3%20walkTheLabyrinth/solution.karel)
   - [2.1.1 (hangTheLampions)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/2.1.1%20hangTheLampions/solution.karel)
+  - [2.1.2 (followTheSeeds)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/2.1.2%20followTheSeeds/solution.karel)
   
 ## Erklärung
   
