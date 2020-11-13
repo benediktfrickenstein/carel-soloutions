@@ -23,6 +23,7 @@ Hier findest du meine Lösungen für Karel.
   - [2.1.3 (cleanTheTunnels)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/2.1.3%20cleanTheTunnels/solution.karel)
   - [2.3.1 (saveTheFlowers)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/2.3.1%20saveTheFlowers/solution.karel)
   - [2.3.2 (findTeddyBear)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/2.3.2%20findTeddyBear/solution.karel)
+  - [2.3.3 (jumpTheHurdles)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/2.3.3%20jumpTheHurdles/solution.karel)
   
 ## Erklärung
   
