@@ -24,6 +24,7 @@ Hier findest du meine Lösungen für Karel.
   - [2.3.1 (saveTheFlowers)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/2.3.1%20saveTheFlowers/solution.karel)
   - [2.3.2 (findTeddyBear)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/2.3.2%20findTeddyBear/solution.karel)
   - [2.3.3 (jumpTheHurdles)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/2.3.3%20jumpTheHurdles/solution.karel)
+  - [2.4.1 (solveTheMaze)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/2.4.1%20solveTheMaze/solution.karel)
   
 ## Erklärung
   
