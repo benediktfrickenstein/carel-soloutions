@@ -21,6 +21,7 @@ Hier findest du meine Lösungen für Karel.
   - [2.1.1 (hangTheLampions)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/2.1.1%20hangTheLampions/solution.karel)
   - [2.1.2 (followTheSeeds)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/2.1.2%20followTheSeeds/solution.karel)
   - [2.1.3 (cleanTheTunnels)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/2.1.3%20cleanTheTunnels/solution.karel)
+  - [2.3.1 (saveTheFlowers)](https://github.com/benediktfrickenstein/carel-soloutions/blob/main/2.3.1%20saveTheFlowers/solution.karel)
   
 ## Erklärung
   
