@@ -1,0 +1,35 @@
+void quantize() {
+    while (frontIsClear()) {
+        updateCode();
+        turnLeft();
+        moveForward();
+    }
+    updateCode();
+}
+
+void updateCode() {
+    turnLeft();
+    repeat (5) {
+        moveForward();
+    }
+    if (onBeeper()) {
+        while (frontIsClear()) {
+            moveForward();
+            if (!onBeeper()) {
+                dropBeeper();
+            }
+        }
+        turnAround();
+        while (frontIsClear()) {
+            moveForward();
+        }
+    } else {
+        turnAround();
+        repeat (5) {
+            moveForward();
+            if (onBeeper()) {
+                pickBeeper();
+            }
+        }
+    } 
+}
